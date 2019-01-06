@@ -1,0 +1,3 @@
+/home/kungdehan/game/opencv_practice/basicdraw/boundingball/build/CMakeFiles/edit_cache.dir
+/home/kungdehan/game/opencv_practice/basicdraw/boundingball/build/CMakeFiles/rebuild_cache.dir
+/home/kungdehan/game/opencv_practice/basicdraw/boundingball/build/CMakeFiles/boundingball.dir

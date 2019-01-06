@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.4.5)
+project( boundingball )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( boundingball boundingball.cpp )
+target_link_libraries( boundingball ${OpenCV_LIBS} )
